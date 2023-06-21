@@ -18,7 +18,7 @@ public class App {
         "sofria  bullying  de uns   garotos do 7 ano, eles me batiam, me chutavam me xingavam, e eu não tinha "+
         "forças pra fazer nada. Foi aí que eu conheci ela, jully que era uma garota gentil e carismática, ela "+
         "se dava bem com todos inclusive  com os  valentões  que me agrediam. O dia em que eu conheci ela foi "+
-        "quando os valentões me levaram pra trás da escola e me deram   uma  surra por não ter feito algo que "+
+        "quando os valentões me levaram pra  trás da escola e me deram  uma  surra por não ter feito algo que "+
         "eles me   pediram. Ela  viu  tudo  e  entregou  eles  para  o diretor, que suspendeu os três. Ela me "+
         "tranquilizou e estendeu a mão para mim. A partir daí eu comecei a andar com a jully, a gente lanchava"+
         " junto, conversava e pela primeira vez eu tinha encontrado uma amiga. Ela me  ajudou muito a superar "+
@@ -39,7 +39,7 @@ public class App {
         " me disse.");
                 
                 System.out.println();
-                System.out.println("você vai ligar para jully?");
+                System.out.println("você vai ligar para jennifer?");
                 System.out.println();
                 System.out.println(">ligar");
                 System.out.println(">não ligar");
